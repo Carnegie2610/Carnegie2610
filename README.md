@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Ronsard Carnegie 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Computer+Vision;Building+web+and+mobile+apps" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carnegie2610&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=USERNAME&theme=chartreuse-dark&hide_border=true" />
