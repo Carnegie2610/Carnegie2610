@@ -1,22 +1,50 @@
-### Hi there 👋, ,
-#### Ronsard Carnegie 
-![Ronsard Carnegie ](https://twitter.com/Carnegie__/header_photo)
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
-Hi am Ronsard Carnegie Frontend and Backend Developer Enthousiast from Silicon Mountain Buea 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Computer+Vision;Building+web+and+mobile+apps" alt="Typing SVG" />
+</p>
 
-Skills: VUE JS / REACT / JS / HTML / CSS/MYSQL/php/Laravel/bootsrap/c/c++
+---
 
-- 🔭 I’m currently working on this page. 
+### 🧰 Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,pytorch,opencv,nextjs,supabase,firebase,vercel,kotlin,androidstudio,git,github,vscode&perline=13" />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Carnegie2610)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RonsardCarnegie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/HilaryMorgan )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Morgan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Carnegie)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carnegie2610)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Carnegie2610&show_icons=true)  
+- 🎥 **[SmartCampusGuard](https://github.com/USERNAME/smartcampusguard)**: video anomaly detection with a 3D-Conv autoencoder, deployed in an Android app
+- 🇨🇦 **[Objectif4C2](https://objectif4c2.com)**: TCF Canada exam simulation platform
+- 🔎 **[Lead Crawler](https://github.com/USERNAME/lead-crawler)**: collaborative lead-collection project
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Carnegie2610)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Carnegie2610)  
+### 📊 GitHub Stats
 
-![Profile views](https://gpvc.arturio.dev/Carnegie2610)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+### 🌱 About Me
+
+- 💼 ~2 years as a software engineer at **NEXTISE GmbH** (Germany)
+- 🎓 B.Sc. Software Engineering · M.Sc. AI & Computer Vision
+- 🔭 Open to **new opportunities**
+- 📍 Based in Douala, Cameroon 🇨🇲
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+</p>
