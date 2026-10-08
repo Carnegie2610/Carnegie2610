@@ -9,7 +9,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,pytorch,opencv,nextjs,supabase,firebase,vercel,kotlin,androidstudio,git,github,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=react,rust,haskell,python,js,pytorch,opencv,nextjs,supabase,firebase,vercel,kotlin,androidstudio,git,github,vscode&perline=16" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Carnegie2610&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Carnegie2610&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -45,6 +45,6 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
